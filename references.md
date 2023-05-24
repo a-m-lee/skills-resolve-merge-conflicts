@@ -1,2 +1,2 @@
-## Test
-Some conflicting text. 
+# References
+
